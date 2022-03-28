@@ -12,6 +12,6 @@
             "sizes": "512x512"
         }
     ],
-    "start_url": "/ex7/ex7.html",
+    "start_url": "ex7.html",
     "display": "fullscreen"
 }
